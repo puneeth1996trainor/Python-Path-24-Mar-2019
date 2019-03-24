@@ -4,5 +4,5 @@ import webbrowser
 #
 # help(webbrowser)
 # chrome = webbrowser.get('/usr/bin/google-chrome %s').open_new_tab("https://www.python.org/")
-safari = webbrowser.get(using='safari')
-safari.open("https://www.python.org/")
+googleChrome = webbrowser.get(using='google-chrome')
+googleChrome.open("https://www.python.org/")
