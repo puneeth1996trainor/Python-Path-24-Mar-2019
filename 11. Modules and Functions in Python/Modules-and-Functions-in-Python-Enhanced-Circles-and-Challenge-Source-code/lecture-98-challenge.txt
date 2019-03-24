@@ -1,0 +1,3 @@
+# Modify the circle function so that it allows the colour of the circle to be specified
+# and defaults to red if a colour is not given.  You may want to review the previous lectures
+# about named parameters and default values.
