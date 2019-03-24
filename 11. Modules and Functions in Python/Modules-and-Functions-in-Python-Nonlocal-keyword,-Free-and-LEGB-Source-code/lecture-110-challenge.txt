@@ -1,0 +1,1 @@
+now the mini challenge here is before actuallyrunning this program can you work at what's going to happen and why its goingto happen because I only done a simple thing as you can see I've merged lines 16 and 17 to make itone line but I want you to see if you can figure out what's going to happen and why.

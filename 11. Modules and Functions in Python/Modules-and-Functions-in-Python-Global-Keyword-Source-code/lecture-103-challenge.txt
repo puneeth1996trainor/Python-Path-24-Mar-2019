@@ -1,0 +1,1 @@
+the mini challenge for you is to answer this question and it’s why is now their an error when players_score is being accessed and the hint here is that we've talked about this player_ace so have a think about that pause the video and try and figure out why we're getting an error with player_score.
